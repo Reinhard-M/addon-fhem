@@ -1,5 +1,5 @@
 {
-  "name": "Fhem",
-  "url": "https://github.com/KastB/addon-fhem",
-  "maintainer": "KastB <kastbernd@gmx.de>"
+  "name": "Fhem4HA",
+  "url": "https://github.com/Reinhard-M/addon-fhem",
+  "maintainer": "Reinhard-M <muellrei@gmail.com>"
 }
