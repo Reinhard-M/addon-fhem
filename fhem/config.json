@@ -1,6 +1,6 @@
 {
   "name": "FHEM",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "slug": "fhem",
   "description": "FHEM Plugin",
   "arch": ["aarch64", "amd64"],
