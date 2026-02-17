@@ -1,10 +1,7 @@
 {
     "build_from": {
       "amd64": "fhem/fhem-amd64_linux",
-      "armhf": "fhem/fhem-arm32v7_linux",
-      "armv7": "fhem/fhem-arm32v7_linux",
-      "i386": "fhem/fhem-i386_linux",
-      "aarch64": "ghcr.io/fhem/fhem-docker:dev-bullseye"
+      "aarch64": "ghcr.io/fhem/fhem-docker:dev-bookworm"
     },
     "args": {
     }
